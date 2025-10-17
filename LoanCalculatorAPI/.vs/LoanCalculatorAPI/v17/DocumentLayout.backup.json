@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\workspace\\github-projects\\loan-calculator-API\\LoanCalculatorAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D85552F9-91AC-4ACD-8898-7F444E2ACF3B}|LoanCalculatorAPI\\LoanCalculatorAPI.csproj|c:\\users\\user\\desktop\\workspace\\github-projects\\loan-calculator-api\\loancalculatorapi\\loancalculatorapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85552F9-91AC-4ACD-8898-7F444E2ACF3B}|LoanCalculatorAPI\\LoanCalculatorAPI.csproj|solutionrelative:loancalculatorapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85552F9-91AC-4ACD-8898-7F444E2ACF3B}|LoanCalculatorAPI\\LoanCalculatorAPI.csproj|c:\\users\\user\\desktop\\workspace\\github-projects\\loan-calculator-api\\loancalculatorapi\\loancalculatorapi\\controllers\\loantypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85552F9-91AC-4ACD-8898-7F444E2ACF3B}|LoanCalculatorAPI\\LoanCalculatorAPI.csproj|solutionrelative:loancalculatorapi\\controllers\\loantypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85552F9-91AC-4ACD-8898-7F444E2ACF3B}|LoanCalculatorAPI\\LoanCalculatorAPI.csproj|c:\\users\\user\\desktop\\workspace\\github-projects\\loan-calculator-api\\loancalculatorapi\\loancalculatorapi\\controllers\\loanappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85552F9-91AC-4ACD-8898-7F444E2ACF3B}|LoanCalculatorAPI\\LoanCalculatorAPI.csproj|solutionrelative:loancalculatorapi\\controllers\\loanappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85552F9-91AC-4ACD-8898-7F444E2ACF3B}|LoanCalculatorAPI\\LoanCalculatorAPI.csproj|c:\\users\\user\\desktop\\workspace\\github-projects\\loan-calculator-api\\loancalculatorapi\\loancalculatorapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85552F9-91AC-4ACD-8898-7F444E2ACF3B}|LoanCalculatorAPI\\LoanCalculatorAPI.csproj|solutionrelative:loancalculatorapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85552F9-91AC-4ACD-8898-7F444E2ACF3B}|LoanCalculatorAPI\\LoanCalculatorAPI.csproj|c:\\users\\user\\desktop\\workspace\\github-projects\\loan-calculator-api\\loancalculatorapi\\loancalculatorapi\\controllers\\bankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85552F9-91AC-4ACD-8898-7F444E2ACF3B}|LoanCalculatorAPI\\LoanCalculatorAPI.csproj|solutionrelative:loancalculatorapi\\controllers\\bankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66705773-93F0-45BA-8F40-52EF93A73F7D}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\user\\desktop\\workspace\\github-projects\\loan-calculator-api\\loancalculatorapi\\businesslogiclayer\\bll\\customerbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66705773-93F0-45BA-8F40-52EF93A73F7D}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\bll\\customerbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoanTypeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\workspace\\github-projects\\loan-calculator-API\\LoanCalculatorAPI\\LoanCalculatorAPI\\Controllers\\LoanTypeController.cs",
+              "RelativeDocumentMoniker": "LoanCalculatorAPI\\Controllers\\LoanTypeController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\workspace\\github-projects\\loan-calculator-API\\LoanCalculatorAPI\\LoanCalculatorAPI\\Controllers\\LoanTypeController.cs",
+              "RelativeToolTip": "LoanCalculatorAPI\\Controllers\\LoanTypeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T11:30:54.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoanAppController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\workspace\\github-projects\\loan-calculator-API\\LoanCalculatorAPI\\LoanCalculatorAPI\\Controllers\\LoanAppController.cs",
+              "RelativeDocumentMoniker": "LoanCalculatorAPI\\Controllers\\LoanAppController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\workspace\\github-projects\\loan-calculator-API\\LoanCalculatorAPI\\LoanCalculatorAPI\\Controllers\\LoanAppController.cs",
+              "RelativeToolTip": "LoanCalculatorAPI\\Controllers\\LoanAppController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T11:30:32.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\workspace\\github-projects\\loan-calculator-API\\LoanCalculatorAPI\\LoanCalculatorAPI\\Program.cs",
+              "RelativeDocumentMoniker": "LoanCalculatorAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\workspace\\github-projects\\loan-calculator-API\\LoanCalculatorAPI\\LoanCalculatorAPI\\Program.cs",
+              "RelativeToolTip": "LoanCalculatorAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T11:27:51.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BankController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\workspace\\github-projects\\loan-calculator-API\\LoanCalculatorAPI\\LoanCalculatorAPI\\Controllers\\BankController.cs",
+              "RelativeDocumentMoniker": "LoanCalculatorAPI\\Controllers\\BankController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\workspace\\github-projects\\loan-calculator-API\\LoanCalculatorAPI\\LoanCalculatorAPI\\Controllers\\BankController.cs",
+              "RelativeToolTip": "LoanCalculatorAPI\\Controllers\\BankController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T11:30:05.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\workspace\\github-projects\\loan-calculator-API\\LoanCalculatorAPI\\LoanCalculatorAPI\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "LoanCalculatorAPI\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\workspace\\github-projects\\loan-calculator-API\\LoanCalculatorAPI\\LoanCalculatorAPI\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "LoanCalculatorAPI\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T11:28:28.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerBLL.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\workspace\\github-projects\\loan-calculator-API\\LoanCalculatorAPI\\BusinessLogicLayer\\BLL\\CustomerBLL.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\BLL\\CustomerBLL.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\workspace\\github-projects\\loan-calculator-API\\LoanCalculatorAPI\\BusinessLogicLayer\\BLL\\CustomerBLL.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\BLL\\CustomerBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T11:26:00.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

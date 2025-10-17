@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\workspace\github-projects\loan-calculator-API\LoanCalculatorAPI\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\user\Desktop\workspace\github-projects\loan-calculator-API\LoanCalculatorAPI\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+C:\Users\user\Desktop\workspace\github-projects\loan-calculator-API\LoanCalculatorAPI\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\user\Desktop\workspace\github-projects\loan-calculator-API\LoanCalculatorAPI\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\user\Desktop\workspace\github-projects\loan-calculator-API\LoanCalculatorAPI\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\workspace\github-projects\loan-calculator-API\LoanCalculatorAPI\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\workspace\github-projects\loan-calculator-API\LoanCalculatorAPI\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\workspace\github-projects\loan-calculator-API\LoanCalculatorAPI\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\user\Desktop\workspace\github-projects\loan-calculator-API\LoanCalculatorAPI\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\workspace\github-projects\loan-calculator-API\LoanCalculatorAPI\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.sourcelink.json
+C:\Users\user\Desktop\workspace\github-projects\loan-calculator-API\LoanCalculatorAPI\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\user\Desktop\workspace\github-projects\loan-calculator-API\LoanCalculatorAPI\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\user\Desktop\workspace\github-projects\loan-calculator-API\LoanCalculatorAPI\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\user\Desktop\workspace\github-projects\loan-calculator-API\LoanCalculatorAPI\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\user\Desktop\workspace\github-projects\loan-calculator-API\LoanCalculatorAPI\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
