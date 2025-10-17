@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,6 +54,19 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\workspace\\github-projects\\loan-calculator-API\\LoanCalculatorAPI\\LoanCalculatorAPI\\Program.cs",
+              "RelativeDocumentMoniker": "LoanCalculatorAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\workspace\\github-projects\\loan-calculator-API\\LoanCalculatorAPI\\LoanCalculatorAPI\\Program.cs",
+              "RelativeToolTip": "LoanCalculatorAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T11:27:51.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "LoanTypeController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\workspace\\github-projects\\loan-calculator-API\\LoanCalculatorAPI\\LoanCalculatorAPI\\Controllers\\LoanTypeController.cs",
@@ -62,8 +75,7 @@
               "RelativeToolTip": "LoanCalculatorAPI\\Controllers\\LoanTypeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T11:30:54.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T11:30:54.036Z"
             },
             {
               "$type": "Document",
@@ -75,21 +87,7 @@
               "RelativeToolTip": "LoanCalculatorAPI\\Controllers\\LoanAppController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T11:30:32.163Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\workspace\\github-projects\\loan-calculator-API\\LoanCalculatorAPI\\LoanCalculatorAPI\\Program.cs",
-              "RelativeDocumentMoniker": "LoanCalculatorAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\workspace\\github-projects\\loan-calculator-API\\LoanCalculatorAPI\\LoanCalculatorAPI\\Program.cs",
-              "RelativeToolTip": "LoanCalculatorAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T11:27:51.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T11:30:32.163Z"
             },
             {
               "$type": "Document",
@@ -101,8 +99,7 @@
               "RelativeToolTip": "LoanCalculatorAPI\\Controllers\\BankController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T11:30:05.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T11:30:05.639Z"
             },
             {
               "$type": "Document",
@@ -114,8 +111,7 @@
               "RelativeToolTip": "LoanCalculatorAPI\\Controllers\\CustomerController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T11:28:28.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T11:28:28.136Z"
             },
             {
               "$type": "Document",
@@ -127,8 +123,7 @@
               "RelativeToolTip": "BusinessLogicLayer\\BLL\\CustomerBLL.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T11:26:00.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T11:26:00.251Z"
             }
           ]
         }
