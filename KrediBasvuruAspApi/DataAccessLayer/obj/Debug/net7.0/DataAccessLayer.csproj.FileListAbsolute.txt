@@ -1,0 +1,56 @@
+C:\Users\ebasa\Desktop\School\STAJ\Layered Architecture Samples\KrediBasvuruLayerArc Empty\KrediBasvuruAspApi\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+C:\Users\ebasa\Desktop\School\STAJ\Layered Architecture Samples\KrediBasvuruLayerArc Empty\KrediBasvuruAspApi\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.runtimeconfig.json
+C:\Users\ebasa\Desktop\School\STAJ\Layered Architecture Samples\KrediBasvuruLayerArc Empty\KrediBasvuruAspApi\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Users\ebasa\Desktop\School\STAJ\Layered Architecture Samples\KrediBasvuruLayerArc Empty\KrediBasvuruAspApi\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\ebasa\Desktop\School\STAJ\Layered Architecture Samples\KrediBasvuruLayerArc Empty\KrediBasvuruAspApi\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ebasa\Desktop\School\STAJ\Layered Architecture Samples\KrediBasvuruLayerArc Empty\KrediBasvuruAspApi\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ebasa\Desktop\School\STAJ\Layered Architecture Samples\KrediBasvuruLayerArc Empty\KrediBasvuruAspApi\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\ebasa\Desktop\School\STAJ\Layered Architecture Samples\KrediBasvuruLayerArc Empty\KrediBasvuruAspApi\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\ebasa\Desktop\School\STAJ\Layered Architecture Samples\KrediBasvuruLayerArc Empty\KrediBasvuruAspApi\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ebasa\Desktop\School\STAJ\Layered Architecture Samples\KrediBasvuruLayerArc Empty\KrediBasvuruAspApi\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+C:\Users\ebasa\Desktop\School\STAJ\Layered Architecture Samples\KrediBasvuruLayerArc Empty\KrediBasvuruAspApi\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+C:\Users\ebasa\Desktop\School\STAJ\Layered Architecture Samples\KrediBasvuruLayerArc Empty\KrediBasvuruAspApi\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\ebasa\Desktop\School\STAJ\Layered Architecture Samples\KrediBasvuruLayerArc Empty\KrediBasvuruAspApi\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\ebasa\Desktop\School\STAJ\Layered Architecture Samples\KrediBasvuruLayerArc Empty\KrediBasvuruAspApi\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll
+C:\Users\ebasa\Desktop\School\STAJ 1\PROJELER YEDEK\KrediBasvuruLayerArc\KrediBasvuruAspApi\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+C:\Users\ebasa\Desktop\School\STAJ 1\PROJELER YEDEK\KrediBasvuruLayerArc\KrediBasvuruAspApi\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.runtimeconfig.json
+C:\Users\ebasa\Desktop\School\STAJ 1\PROJELER YEDEK\KrediBasvuruLayerArc\KrediBasvuruAspApi\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Users\ebasa\Desktop\School\STAJ 1\PROJELER YEDEK\KrediBasvuruLayerArc\KrediBasvuruAspApi\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\ebasa\Desktop\School\STAJ 1\PROJELER YEDEK\KrediBasvuruLayerArc\KrediBasvuruAspApi\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ebasa\Desktop\School\STAJ 1\PROJELER YEDEK\KrediBasvuruLayerArc\KrediBasvuruAspApi\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ebasa\Desktop\School\STAJ 1\PROJELER YEDEK\KrediBasvuruLayerArc\KrediBasvuruAspApi\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\ebasa\Desktop\School\STAJ 1\PROJELER YEDEK\KrediBasvuruLayerArc\KrediBasvuruAspApi\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\ebasa\Desktop\School\STAJ 1\PROJELER YEDEK\KrediBasvuruLayerArc\KrediBasvuruAspApi\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ebasa\Desktop\School\STAJ 1\PROJELER YEDEK\KrediBasvuruLayerArc\KrediBasvuruAspApi\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+C:\Users\ebasa\Desktop\School\STAJ 1\PROJELER YEDEK\KrediBasvuruLayerArc\KrediBasvuruAspApi\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+C:\Users\ebasa\Desktop\School\STAJ 1\PROJELER YEDEK\KrediBasvuruLayerArc\KrediBasvuruAspApi\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\ebasa\Desktop\School\STAJ 1\PROJELER YEDEK\KrediBasvuruLayerArc\KrediBasvuruAspApi\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\ebasa\Desktop\School\STAJ 1\PROJELER YEDEK\KrediBasvuruLayerArc\KrediBasvuruAspApi\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll
+C:\Users\ebasa\Desktop\Diğer\Okul\STAJ 1\PROJELER YEDEK\KrediBasvuruLayerArc\KrediBasvuruAspApi\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+C:\Users\ebasa\Desktop\Diğer\Okul\STAJ 1\PROJELER YEDEK\KrediBasvuruLayerArc\KrediBasvuruAspApi\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.runtimeconfig.json
+C:\Users\ebasa\Desktop\Diğer\Okul\STAJ 1\PROJELER YEDEK\KrediBasvuruLayerArc\KrediBasvuruAspApi\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Users\ebasa\Desktop\Diğer\Okul\STAJ 1\PROJELER YEDEK\KrediBasvuruLayerArc\KrediBasvuruAspApi\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\ebasa\Desktop\Diğer\Okul\STAJ 1\PROJELER YEDEK\KrediBasvuruLayerArc\KrediBasvuruAspApi\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ebasa\Desktop\Diğer\Okul\STAJ 1\PROJELER YEDEK\KrediBasvuruLayerArc\KrediBasvuruAspApi\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ebasa\Desktop\Diğer\Okul\STAJ 1\PROJELER YEDEK\KrediBasvuruLayerArc\KrediBasvuruAspApi\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\ebasa\Desktop\Diğer\Okul\STAJ 1\PROJELER YEDEK\KrediBasvuruLayerArc\KrediBasvuruAspApi\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\ebasa\Desktop\Diğer\Okul\STAJ 1\PROJELER YEDEK\KrediBasvuruLayerArc\KrediBasvuruAspApi\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ebasa\Desktop\Diğer\Okul\STAJ 1\PROJELER YEDEK\KrediBasvuruLayerArc\KrediBasvuruAspApi\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+C:\Users\ebasa\Desktop\Diğer\Okul\STAJ 1\PROJELER YEDEK\KrediBasvuruLayerArc\KrediBasvuruAspApi\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+C:\Users\ebasa\Desktop\Diğer\Okul\STAJ 1\PROJELER YEDEK\KrediBasvuruLayerArc\KrediBasvuruAspApi\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\ebasa\Desktop\Diğer\Okul\STAJ 1\PROJELER YEDEK\KrediBasvuruLayerArc\KrediBasvuruAspApi\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\ebasa\Desktop\Diğer\Okul\STAJ 1\PROJELER YEDEK\KrediBasvuruLayerArc\KrediBasvuruAspApi\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll
+E:\Kişisel - 01.05.2025\Ben\Okul\STAJ 1\PROJELER YEDEK\KrediBasvuruLayerArc\KrediBasvuruAspApi\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+E:\Kişisel - 01.05.2025\Ben\Okul\STAJ 1\PROJELER YEDEK\KrediBasvuruLayerArc\KrediBasvuruAspApi\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.runtimeconfig.json
+E:\Kişisel - 01.05.2025\Ben\Okul\STAJ 1\PROJELER YEDEK\KrediBasvuruLayerArc\KrediBasvuruAspApi\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+E:\Kişisel - 01.05.2025\Ben\Okul\STAJ 1\PROJELER YEDEK\KrediBasvuruLayerArc\KrediBasvuruAspApi\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+E:\Kişisel - 01.05.2025\Ben\Okul\STAJ 1\PROJELER YEDEK\KrediBasvuruLayerArc\KrediBasvuruAspApi\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+E:\Kişisel - 01.05.2025\Ben\Okul\STAJ 1\PROJELER YEDEK\KrediBasvuruLayerArc\KrediBasvuruAspApi\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kişisel - 01.05.2025\Ben\Okul\STAJ 1\PROJELER YEDEK\KrediBasvuruLayerArc\KrediBasvuruAspApi\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+E:\Kişisel - 01.05.2025\Ben\Okul\STAJ 1\PROJELER YEDEK\KrediBasvuruLayerArc\KrediBasvuruAspApi\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+E:\Kişisel - 01.05.2025\Ben\Okul\STAJ 1\PROJELER YEDEK\KrediBasvuruLayerArc\KrediBasvuruAspApi\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Kişisel - 01.05.2025\Ben\Okul\STAJ 1\PROJELER YEDEK\KrediBasvuruLayerArc\KrediBasvuruAspApi\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+E:\Kişisel - 01.05.2025\Ben\Okul\STAJ 1\PROJELER YEDEK\KrediBasvuruLayerArc\KrediBasvuruAspApi\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+E:\Kişisel - 01.05.2025\Ben\Okul\STAJ 1\PROJELER YEDEK\KrediBasvuruLayerArc\KrediBasvuruAspApi\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+E:\Kişisel - 01.05.2025\Ben\Okul\STAJ 1\PROJELER YEDEK\KrediBasvuruLayerArc\KrediBasvuruAspApi\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.genruntimeconfig.cache
+E:\Kişisel - 01.05.2025\Ben\Okul\STAJ 1\PROJELER YEDEK\KrediBasvuruLayerArc\KrediBasvuruAspApi\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll
