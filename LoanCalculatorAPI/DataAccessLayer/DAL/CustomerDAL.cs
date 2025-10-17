@@ -5,11 +5,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using DataAccessLayer.Interfaces;
 
 namespace DataAccessLayer.DAL
 {
-    public class CustomerDAL : IRepository<Customer>
+    public class CustomerDAL
     {
 
         private readonly LoanCalculatorDbContext _db;
@@ -64,5 +63,4 @@ namespace DataAccessLayer.DAL
             _db.SaveChanges();
         }
     }
-
 }
